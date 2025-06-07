@@ -1,3 +1,4 @@
 django
 gphoto2
 Pillow
+django-environ

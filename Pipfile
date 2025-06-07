@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 django = "*"
+gphoto2 = "*"
+pillow = "*"
+django-environ = "*"
 
 [dev-packages]
 
